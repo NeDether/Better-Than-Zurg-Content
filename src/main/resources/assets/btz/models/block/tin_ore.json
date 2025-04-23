@@ -1,0 +1,7 @@
+{	"parent": "block/ore_block",
+  "textures": {
+    "all": "block/tin_ore",
+    "particle": "block/diamond_block_top"
+  }
+
+}
